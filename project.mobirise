@@ -58,7 +58,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Captain Electric",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1271,7 +1271,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "",
         "title": "Residential",
         "order": 1
       },
@@ -2667,7 +2667,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "",
         "title": "Commercial",
         "order": 2
       },
@@ -4063,7 +4063,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "",
         "title": "About Us",
         "order": 3
       },
